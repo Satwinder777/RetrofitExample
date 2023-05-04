@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="api_unsplace">https://api.unsplash.com/photos/?client_id=LaouBQbk85ic-A8o4rA_XDSUCUfoaHxiCECxd5ZDyUU</string>
+</resources>
